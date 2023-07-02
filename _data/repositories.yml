@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ignaciocarlucho
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - IgnacioCarlucho/Double_QPID
+  - IgnacioCarlucho/deepPID
+  - IgnacioCarlucho/auv_msgs
+  - IgnacioCarlucho/Q_lambda
+  - uoe-agents/PO-GPL
+  - uoe-agents/MEDoE
+  - uoe-agents/BRDiv

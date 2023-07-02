@@ -1,12 +1,22 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /Talks/
+title: talks
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
+youtubeId: PU1kQux-ais
+youtubeId2: eQxC_EWVN1w
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Reinforcement Learning reading group
 
-Organize your courses by years, topics, or universities, however you like!
+This talk was part of the reinforcement reading group held at the University of Edinburgh. 
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+# Marine Vehicles Localization Using Grid Cells for Path Integration
+
+Presentation for the publication you can found it [here](https://arxiv.org/abs/2107.13461) 
+
+{% include youtubePlayer.html id=page.youtubeId2 %}

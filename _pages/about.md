@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/staff.htm'>Heriot-Watt University</a> and <a href='https://thenationalrobotarium.com/'>The National Robotarium</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>EM G06, Heriot-Watt University</p>
+    <p>Edinburgh, UK</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor (Lecturer) in robotics and autonomous systems in the School of Engineering and Physical Sciences at [Heriot-Watt University](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/staff.htm). I am also part of the the [National Robotarium](https://thenationalrobotarium.com/) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main research interests are in robotics, reinforcement learning, and multi-agent systems, with a focus on ad hoc teamwork. With my research, I seek to develop intelligent agents, capable of making autonomous decisions in complex multi-agent environments without the need for human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behaviour in robotic systems. Thus, the main focus of my research so far has been on the development of autonomous control policies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me.  
+
