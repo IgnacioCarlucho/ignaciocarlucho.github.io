@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ignaciocarlucho.github.io/ignacio/sitemap.xml
+Sitemap: https://ignaciocarlucho.github.io/sitemap.xml
