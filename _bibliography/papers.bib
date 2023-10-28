@@ -4,6 +4,24 @@
 @string{aps = {American Physical Society,}}
 
 
+
+@inproceedings{nicolay2023enhancing,
+      title={Enhancing AUV Autonomy With Model Predictive Path Integral Control}, 
+      author={Pierre Nicolay and Yvan Petillot and Mykhaylo Marfeychuk and Sen Wang and Ignacio Carlucho},
+      year={2023},
+      booktitle={OCEANS 2023},
+      organization={IEEE},
+      eprint={2308.05547},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      selected={true},
+      abstract={Autonomous underwater vehicles (AUVs) play a crucial role in surveying marine environments, carrying out underwater inspection tasks, and ocean exploration. However, in order to ensure that the AUV is able to carry out its mission successfully, a control system capable of adapting to changing environmental conditions is required. Furthermore, to ensure the robotic platform's safe operation, the onboard controller should be able to operate under certain constraints. In this work, we investigate the feasibility of Model Predictive Path Integral Control (MPPI) for the control of an AUV. We utilise a non-linear model of the AUV to propagate the samples of the MPPI, which allow us to compute the control action in real time. We provide a detailed evaluation of the effect of the main hyperparameters on the performance of the MPPI controller. Furthermore, we compared the performance of the proposed method with a classical PID and Cascade PID approach, demonstrating the superiority of our proposed controller. Finally, we present results where environmental constraints are added and show how MPPI can handle them by simply incorporating those constraints in the cost function.},
+      arxiv={2308.05547},
+
+}
+
+
+
 @article{fosong2023learning,
   title={Learning Complex Teamwork Tasks using a Sub-task Curriculum},
   author={Fosong, Elliot and Rahman, Arrasy and Carlucho, Ignacio and Albrecht, Stefano V},
@@ -29,7 +47,7 @@
 @article{Carlucho2022Pred,
 author={Carlucho, Ignacio and Stephens, Dylan and Ard, William and Barbalata, Corina},
 title={Semi-Parametric Control Architecture for Autonomous Underwater Vehicles Subject to Time Delays},
-journal={IEEE Access (Under Review)},
+journal={IEEE Access},
 year={2023},
 abstract={This paper presents a data-driven model-based control system for autonomous underwater vehicles (or AUVs) subject to input delays. This work is motivated by the input time delays that can arise in underwater robotics due to communication restrictions and sensor malfunctions. Such delays can highly degrade the performance of classical control structures resulting in unpredictable system behaviours. The proposed control architecture addresses such limitations. The approach incorporates a linear dynamic representation of the system obtained using the Koopman operator in an observer/state prediction formulation. The proposed control architecture is designed based on  discrepancies between the data-driven estimation of the system's behaviour and the actual AUV performance using chain predictors.  The capabilities of the proposed approach are shown through experiments performed with a $4$ degrees-of-freedom autonomous underwater vehicle. The results demonstrate  stable behaviours without steady-state errors, even in the presence of long delay.},
  preview={dory.png},
