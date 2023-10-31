@@ -50,20 +50,26 @@ title={Semi-Parametric Control Architecture for Autonomous Underwater Vehicles S
 journal={IEEE Access},
 year={2023},
 abstract={This paper presents a data-driven model-based control system for autonomous underwater vehicles (or AUVs) subject to input delays. This work is motivated by the input time delays that can arise in underwater robotics due to communication restrictions and sensor malfunctions. Such delays can highly degrade the performance of classical control structures resulting in unpredictable system behaviours. The proposed control architecture addresses such limitations. The approach incorporates a linear dynamic representation of the system obtained using the Koopman operator in an observer/state prediction formulation. The proposed control architecture is designed based on  discrepancies between the data-driven estimation of the system's behaviour and the actual AUV performance using chain predictors.  The capabilities of the proposed approach are shown through experiments performed with a $4$ degrees-of-freedom autonomous underwater vehicle. The results demonstrate  stable behaviours without steady-state errors, even in the presence of long delay.},
- preview={dory.png},
- selected={true},
+preview={dory.png},
+selected={true},
 }
 
+
+
 @article{rahman2022general,
-      title={A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based Policy Learning}, 
-      author={Arrasy Rahman and Ignacio Carlucho and Niklas Höpner and Stefano V. Albrecht},
-      year={2023},
-      journal={Arxiv preprint 2210.05448},
-      selected={true},
-      arxiv={2210.05448},
-      abstract={https://arxiv.org/abs/2210.05448},
-      code={https://github.com/uoe-agents/PO-GPL},
-       preview={gpl.png},
+author  = {Arrasy Rahman and Ignacio Carlucho and Niklas Höpner and Stefano V. Albrecht},
+title   = {A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based Policy Learning},
+journal = {Journal of Machine Learning Research},
+year    = {2023},
+volume  = {24},
+number  = {298},
+pages   = {1--74},
+url     = {http://jmlr.org/papers/v24/22-099.html},
+arxiv={2210.05448},
+code={https://github.com/uoe-agents/PO-GPL},
+preview={gpl.png},
+selected={true},
+abstract = {Open ad hoc teamwork is the problem of training a single agent to efficiently collaborate with an unknown group of teammates whose composition may change over time. A variable team composition creates challenges for the agent, such as the requirement to adapt to new team dynamics and dealing with changing state vector sizes. These challenges are aggravated in real-world applications where the controlled agent has no access to the full state of the environment. In this work, we develop a class of solutions for open ad hoc teamwork under full and partial observability. We start by developing a solution for the fully observable case that leverages graph neural network architectures to obtain an optimal policy based on reinforcement learning. We then extend this solution to partially observable scenarios by proposing different methodologies that maintain belief estimates over the latent environment states and team composition. These belief estimates are combined with our solution for the fully observable case to compute an agent's optimal policy under partial observability in open ad hoc teamwork. Empirical results demonstrate that our approach can learn efficient policies in open ad hoc teamwork in full and partially observable cases. Further analysis demonstrates that our methods' success is a result of effectively learning the effects of teammates' actions while also inferring the inherent state of the environment under partial observability.}
 }
 
 @article{rahman2023generating,
