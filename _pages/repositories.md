@@ -1,44 +1,24 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: My main repositories
+permalink: /Current students/
+title: Current students
+description: A list of current students
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
+## PhD candidates
 
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-  {% if site.data.repositories.github_users.size > 1 %}
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/Pierre.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Pierre Nicolay </b>| <a href="https://www.edinburgh-robotics.org/students/pierre-nicolay">Personal page</a>  <br>
+     Project title: Lifelong Learning for Vision based AUV Control <br>
+     The main objective is to design a low-level controller for autonomous underwater vehicles (AUVs) using learning frameworks. The algorithm should be portable across multiple robots. The controller should adapt quickly to any change in the dynamics (e.g. increase of payload, current disturbances or thruster efficiency decay)
+    </div>
   </div>
 
-  ---
+<br>
 
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
