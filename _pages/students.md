@@ -3,7 +3,7 @@ layout: page
 permalink: /Current students/
 title: Current students
 description: A list of current students
-nav: true
+nav: false
 nav_order: 3
 ---
 
