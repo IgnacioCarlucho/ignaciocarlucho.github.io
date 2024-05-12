@@ -13,7 +13,7 @@ nav_order: 3
 
  <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/profiles/sumer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/Default_pfp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Favour Adetunji </b>| Personal page </a> <br>
@@ -26,7 +26,7 @@ nav_order: 3
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/Default_pfp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Michele Grimaldi </b>| Personal page  <br>
@@ -38,7 +38,7 @@ nav_order: 3
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/Default_pfp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Zebin Huang </b>| <a href="https://zebinhuang.com/">Personal page</a> <br>
@@ -64,7 +64,7 @@ nav_order: 3
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/OSL.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/Default_pfp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Ellis Niamh </b>| Personal page  <br>
