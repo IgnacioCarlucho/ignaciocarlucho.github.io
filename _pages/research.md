@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /Research/
-title: Resarch
-description: 
+title: Research
+description: An overview of the research conducted in my lab. 
 nav: true
 nav_order: 2
 ---
@@ -10,14 +10,17 @@ nav_order: 2
 
 ## Marine Robotics
 
+<div style="display: flex; align-items: start;">
+    <img src="assets/img/image.jpg" alt="description" style="margin-right: 10px;">
+    <div>
+        We develop algorithms for robust autonomous operation in challenging underwater environments, focusing on the unique challenges of the marine environment, such as the limited communication, dynamic disturbances, and degraded sensing. Research questions include: how to achieve reliable localization with limited acoustic sensing; how to enable efficient multi-robot coordination under severe constraints; and how to perform robust perception and mapping in visually degraded conditions. Our work spans fundamental robotics capabilities from SLAM to motion planning and control, with particular emphasis on field deployment and validation.
+    </div>
+</div>
 
-We develop algorithms for robust autonomous operation in challenging underwater environments, focusing on the unique challenges of the marine environment, such as the limited communication, dynamic disturbances, and degraded sensing. Research questions include: how to achieve reliable localization with limited acoustic sensing; how to enable efficient multi-robot coordination under severe constraints; and how to perform robust perception and mapping in visually degraded conditions. Our work spans fundamental robotics capabilities from SLAM to motion planning and control, with particular emphasis on field deployment and validation.
 
-Recent publications: 
-
-[FRAGG-Map: Frustum Accelerated GPU-Based Grid Map](https://ieeexplore.ieee.org/abstract/document/10801590)
-
-[Digital Twins Below the Surface: Enhancing Underwater Teleoperation](https://arxiv.org/abs/2402.07556)
+Recent publications:   
+[FRAGG-Map: Frustum Accelerated GPU-Based Grid Map](https://ieeexplore.ieee.org/abstract/document/10801590)  
+[Digital Twins Below the Surface: Enhancing Underwater Teleoperation](https://arxiv.org/abs/2402.07556)  
 
 ## Reinforcement Learning
 
