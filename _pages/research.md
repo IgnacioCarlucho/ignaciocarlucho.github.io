@@ -14,7 +14,7 @@ nav_order: 2
     <div class="col-4">
       {% include figure.html path="assets/img/underwater.jpg" title="your image title" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-8">
+    <div class="col-8" style="text-align: justify;">
       We develop algorithms for robust autonomous operation in challenging underwater environments, focusing on the unique challenges of the marine environment, such as the limited communication, dynamic disturbances, and degraded sensing. Research questions include: how to achieve reliable localization with limited acoustic sensing; how to enable efficient multi-robot coordination under severe constraints; and how to perform robust perception and mapping in visually degraded conditions. Our work spans fundamental robotics capabilities from SLAM to motion planning and control, with particular emphasis on field deployment and validation.
     </div>
 </div>
@@ -30,7 +30,7 @@ Recent publications:
 
 <div class="row align-items-center">
     <div class="col-4">
-      {% include figure.html path="assets/img/gpl.png" title="your image title" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/publication_preview/gpl.png" title="your image title" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-8">
       Our research focuses on developing robust reinforcement learning algorithms that can handle the challenges of real-world robotics: continuous action spaces, partial observability, and safety constraints. We investigate how to enable efficient learning from limited data, how to incorporate safety constraints into the learning process, and how to transfer learned policies across different robots and tasks. A key focus is bridging the gap between simulation and reality through techniques like domain randomization and meta-learning.
