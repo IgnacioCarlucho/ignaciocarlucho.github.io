@@ -6,7 +6,15 @@ description: An overview of the research conducted in my lab.
 nav: true
 nav_order: 2
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HLN7KFZYDV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-HLN7KFZYDV');
+</script>
 
 ## Marine Robotics
 
