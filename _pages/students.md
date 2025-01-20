@@ -1,15 +1,15 @@
 ---
 layout: page
-permalink: /Current students/
-title: Current students
-description: A list of current students
+permalink: /People/
+title: People
+description: A list of my current students. 
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 
 
-## Postdocs
+## Postdoctoral researchers
 
   <div class="row align-items-center">
     <div class="col-2">
