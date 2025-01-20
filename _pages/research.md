@@ -11,7 +11,7 @@ nav_order: 2
 ## Marine Robotics
 
 <div style="display: flex; align-items: start;">
-    <img src="assets/img/image.jpg" alt="description" style="margin-right: 10px;">
+    <img src="assets/img/underwater.jpg" alt="description" style="margin-right: 10px;">
     <div>
         We develop algorithms for robust autonomous operation in challenging underwater environments, focusing on the unique challenges of the marine environment, such as the limited communication, dynamic disturbances, and degraded sensing. Research questions include: how to achieve reliable localization with limited acoustic sensing; how to enable efficient multi-robot coordination under severe constraints; and how to perform robust perception and mapping in visually degraded conditions. Our work spans fundamental robotics capabilities from SLAM to motion planning and control, with particular emphasis on field deployment and validation.
     </div>
