@@ -3,7 +3,7 @@ layout: page
 permalink: /Talks/
 title: Talks
 description: Talks at conferences and workshops.
-nav: true
+nav: false
 nav_order: 5
 youtubeId: PU1kQux-ais
 youtubeId2: eQxC_EWVN1w
