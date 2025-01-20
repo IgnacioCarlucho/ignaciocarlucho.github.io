@@ -30,7 +30,7 @@ Recent publications:
 
 <div class="row align-items-center">
     <div class="col-4">
-      {% include figure.html path="assets/img/publication_preview/gpl.png" title="your image title" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/publication_preview/adaptive_mimo.jpg" title="your image title" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-8">
       Our research focuses on developing robust reinforcement learning algorithms that can handle the challenges of real-world robotics: continuous action spaces, partial observability, and safety constraints. We investigate how to enable efficient learning from limited data, how to incorporate safety constraints into the learning process, and how to transfer learned policies across different robots and tasks. A key focus is bridging the gap between simulation and reality through techniques like domain randomization and meta-learning.
