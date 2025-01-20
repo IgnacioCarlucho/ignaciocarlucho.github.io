@@ -21,6 +21,7 @@ nav_order: 3
     </div>
   </div>
 
+<br>
 
 
 ## PhD candidates
@@ -35,13 +36,15 @@ nav_order: 3
     </div>
   </div>
 
+<br>
+
  <div class="row align-items-center">
     <div class="col-2">
       {% include figure.html path="assets/img/profiles/favour.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Favour Adetunji </b>| Personal page  <br>
-     Co-supervised with Maria Koskinopoulou and Profesor Yvan Petillot <br>
+     Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/maria-koskinopoulou">Maria Koskinopoulou</a> <br>
      Project title: Pipe and cable tracking in for autonomous underwater vehicles <br>
     </div>
   </div>
@@ -56,7 +59,7 @@ nav_order: 3
     </div>
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
-     Co-supervised with Alessandro Suglia <br>
+     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia</a>  <br>
      Project title: Exploring foundational models for decision making in autonomous robots <br>
     </div>
   </div>
@@ -68,7 +71,7 @@ nav_order: 3
     {% include figure.html path="assets/img/profiles/Default_pfp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-10">
-    <b> Robbie McPherson </b>| Personal page</a> <br>
+    <b> Robbie McPherson </b>| Personal page <br>
     Project title: Reinforcement learning for autonomous robots <br>
   </div>
 </div>
@@ -83,7 +86,7 @@ nav_order: 3
     </div>
     <div class="col-10">
      <b> Michele Grimaldi </b>| Personal page  <br>
-     Co-supervised with Profesor Yvan Petillot <br>
+     Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot">Profesor Yvan Petillot</a> <br>
      Project title: Underwater inspection and planning for robust scene identification and advanced manipulation <br>
     </div>
   </div>
@@ -92,11 +95,11 @@ nav_order: 3
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/profiles/Default_pfp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/zebin.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Zebin Huang </b>| <a href="https://zebinhuang.com/">Personal page</a> <br>
-     Co-supervised with Profesor Yvan Petillot <br>
+     Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot">Profesor Yvan Petillot</a> <br>
      Project title: Assured Underwater Data Acquisition <br>
     </div>
   </div>
