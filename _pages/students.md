@@ -9,7 +9,15 @@ nav_order: 3
 
 ## PhD candidates
 
-
+ <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/sumer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Sümer Tunçay </b>| Personal page <br>
+     Project title: Reinforcement learning for control of underwater vehicles. <br>
+    </div>
+  </div>
 
  <div class="row align-items-center">
     <div class="col-2">
@@ -33,6 +41,31 @@ nav_order: 3
      Project title: Underwater inspection and planning for robust scene identification and advanced manipulation <br>
     </div>
   </div>
+
+<br>
+
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/Default_pfp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Harris Uddin  </b>| Personal page</a> <br>
+     Co-supervised with Alessandro Suglia <br>
+     Project title: Exploring foundational models for decision making in autonomous robots <br>
+    </div>
+  </div>
+
+  <br>
+
+<div class="row align-items-center">
+  <div class="col-2">
+    {% include figure.html path="assets/img/profiles/Default_pfp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-10">
+    <b> Robbie McPherson </b>| Personal page</a> <br>
+    Project title: Reinforcement learning for autonomous robots <br>
+  </div>
+</div>
 
 <br>
 
@@ -75,29 +108,7 @@ nav_order: 3
 
 <br>
 
- <div class="row align-items-center">
-    <div class="col-2">
-      {% include figure.html path="assets/img/profiles/sumer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-10">
-     <b> Sümer Tunçay </b>| Personal page <br>
-     Project title: Towards collaborative inspections with multi-agent robotic systems via reinforcement learning. <br>
-    </div>
-  </div>
+
 
 <br>
 
-## MSc students
-
-  <div class="row align-items-center">
-    <div class="col-2">
-      {% include figure.html path="assets/img/profiles/michael.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-10">
-     <b> Michael Kirby </b> <br>
-     Co-supervised with Dr. Maria Koskinopoulou <br>
-     Project title: Vision-based Navigation and Planning of Underwater Vehicles  <br>
-    </div>
-  </div>
-
-<hr>
