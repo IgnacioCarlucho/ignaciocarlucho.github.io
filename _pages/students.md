@@ -64,7 +64,7 @@ nav_order: 1
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/profiles/Harris.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/harris.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
