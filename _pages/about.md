@@ -37,4 +37,4 @@ My main research interests are in robotics, reinforcement learning, and multi-ag
 
 If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me. We have funding opportunities available at the [SPADS CDT](https://spads.ac.uk/how-apply) and the [CDT-D2AIR](https://www.edinburgh-robotics.org/apply). 
 
-Are you interested in doing an [MSc in Robotics](https://www.hw.ac.uk/study/postgraduate/robotics)? Come study with us at Heriot-Watt University and the National Robotarium! We have some [scholarship opportunities here!](https://www.hw.ac.uk/study/fees-and-funding/scholarships-and-bursaries/heriot-watt-future-shapers-scholarship)
+Are you interested in doing an [MSc in Robotics](https://www.hw.ac.uk/study/postgraduate/robotics)? Come study with us at Heriot-Watt University and the National Robotarium! We have some [scholarship opportunities available here!](https://www.hw.ac.uk/study/fees-and-funding/scholarships-and-bursaries/heriot-watt-future-shapers-scholarship)
