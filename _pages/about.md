@@ -35,5 +35,6 @@ I am an Assistant Professor (Lecturer) in robotics and autonomous systems in the
 My main research interests are in robotics, reinforcement learning, and multi-agent systems, with a focus on ad hoc teamwork. With my research, I seek to develop intelligent agents, capable of making autonomous decisions in complex multi-agent environments without the need for human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behaviour in robotic systems. Thus, the main focus of my research so far has been on the development of autonomous control policies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. 
 
 
-If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me.  
-We have funding opportunities available at the [SPADS CDT](https://spads.ac.uk/how-apply) and the [CDT-D2AIR](https://www.edinburgh-robotics.org/apply). 
+If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me. We have funding opportunities available at the [SPADS CDT](https://spads.ac.uk/how-apply) and the [CDT-D2AIR](https://www.edinburgh-robotics.org/apply). 
+
+Are you interested in doing an [MSc in Robotics](https://www.hw.ac.uk/study/postgraduate/robotics)? Come study with us at Heriot-Watt University and the National Robotarium! We have some [scholarship opportunities here!](https://www.hw.ac.uk/study/fees-and-funding/scholarships-and-bursaries/heriot-watt-future-shapers-scholarship)
