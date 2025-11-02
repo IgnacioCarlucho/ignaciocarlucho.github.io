@@ -40,7 +40,7 @@ nav_order: 1
       {% include figure.html path="assets/img/profiles/sumer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b> Sümer Tunçay </b>| Personal page <br>
+     <b> Sümer Tunçay </b>| <a href="https://www.researchgate.net/profile/Suemer-Tuncay"> Personal page</a> <br>
      Project title: Reinforcement learning for control of underwater vehicles. <br>
     </div>
   </div>
@@ -90,7 +90,7 @@ nav_order: 1
     {% include figure.html path="assets/img/profiles/Ivalin.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-10">
-    <b> Ivalin Chobanov </b>| <a href="https://ivalin.com/">Personal page <br>
+    <b> Ivalin Chobanov </b>| <a href="https://ivalin.com/">Personal page</a>  <br>
     Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy </a> <br>
     Project title: Advancing multi-agent reinforcement learning  <br>
   </div>
