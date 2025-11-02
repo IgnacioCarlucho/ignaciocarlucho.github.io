@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check our new paper MarineGym in which we developed a simulator environment for marine vehicles based on isaac si.[paper here](https://arxiv.org/abs/2410.14117)
+We presented [MarineGym at IROS'25](https://arxiv.org/abs/2410.14117), a simulator environment for marine vehicles based on isaac sim.
