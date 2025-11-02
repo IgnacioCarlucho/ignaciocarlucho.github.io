@@ -87,12 +87,12 @@ nav_order: 1
 
 <div class="row align-items-center">
   <div class="col-2">
-    {% include figure.html path="assets/img/profiles/ulixes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/profiles/Ivalin.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-10">
-    <b> Ulixes Hawili </b>| Personal page <br>
-    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy</a> <br>
-    Project title: Ad hoc teamwork for real-world robotics. <br>
+    <b> Ivalin Chobanov </b>| Personal page <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy </a> <br>
+    Project title: Advancing multi-agent reinforcement learning  <br>
   </div>
 </div>
 
@@ -100,11 +100,11 @@ nav_order: 1
 
 <div class="row align-items-center">
   <div class="col-2">
-    {% include figure.html path="assets/img/profiles/Ivalin.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/profiles/ulixes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-10">
     <b> Ulixes Hawili </b>| Personal page <br>
-    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy and <a href="https://researchportal.hw.ac.uk/en/persons/yoann-altmann/">Prof. Yoann Altmann </a> <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy and Prof. Yoann Altmann</a> <br>
     Project title: Ad hoc teamwork for real-world robotics. <br>
   </div>
 </div>
