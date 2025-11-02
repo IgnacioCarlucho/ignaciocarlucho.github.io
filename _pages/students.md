@@ -60,15 +60,13 @@ nav_order: 1
 
 <br>
 
-
-
   <div class="row align-items-center">
     <div class="col-2">
       {% include figure.html path="assets/img/profiles/harris.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
-     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia and <a href="https://eng.ed.ac.uk/about/people/dr-steven-mcdonagh">Steven McDonagh </a>  <br>
+     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia and Steven McDonagh</a>  <br>
      Project title: Exploring foundational models for decision making in autonomous robots. <br>
     </div>
   </div>
@@ -93,7 +91,7 @@ nav_order: 1
   </div>
   <div class="col-10">
     <b> Ulixes Hawili </b>| Personal page <br>
-    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy </a> <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy</a> <br>
     Project title: Ad hoc teamwork for real-world robotics. <br>
   </div>
 </div>
