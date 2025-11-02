@@ -54,7 +54,7 @@ nav_order: 1
     <div class="col-10">
      <b> Favour Adetunji </b>| Personal page  <br>
      Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/maria-koskinopoulou">Maria Koskinopoulou</a> <br>
-     Project title: Pipe and cable tracking in for autonomous underwater vehicles <br>
+     Project title: Pipe and cable tracking in for autonomous underwater vehicles. <br>
     </div>
   </div>
 
@@ -68,8 +68,8 @@ nav_order: 1
     </div>
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
-     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia</a>  <br>
-     Project title: Exploring foundational models for decision making in autonomous robots <br>
+     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia and <a href="https://eng.ed.ac.uk/about/people/dr-steven-mcdonagh">Steven McDonagh </a>  <br>
+     Project title: Exploring foundational models for decision making in autonomous robots. <br>
     </div>
   </div>
 
@@ -81,11 +81,35 @@ nav_order: 1
   </div>
   <div class="col-10">
     <b> Robbie McPherson </b>| Personal page <br>
-    Project title: Reinforcement learning for autonomous robots <br>
+    Project title: Reinforcement learning for the control of aerial vehicles. <br>
   </div>
 </div>
 
+<br>
 
+<div class="row align-items-center">
+  <div class="col-2">
+    {% include figure.html path="assets/img/profiles/ulixes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-10">
+    <b> Ulixes Hawili </b>| Personal page <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy </a> <br>
+    Project title: Ad hoc teamwork for real-world robotics. <br>
+  </div>
+</div>
+
+<br>
+
+<div class="row align-items-center">
+  <div class="col-2">
+    {% include figure.html path="assets/img/profiles/Ivalin.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-10">
+    <b> Ulixes Hawili </b>| Personal page <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy and <a href="https://researchportal.hw.ac.uk/en/persons/yoann-altmann/">Prof. Yoann Altmann </a> <br>
+    Project title: Ad hoc teamwork for real-world robotics. <br>
+  </div>
+</div>
 
 <br>
 
@@ -97,6 +121,19 @@ nav_order: 1
      <b> Michele Grimaldi </b>| Personal page  <br>
      Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot">Profesor Yvan Petillot</a> <br>
      Project title: Underwater inspection and planning for robust scene identification and advanced manipulation <br>
+    </div>
+  </div>
+
+<br>
+
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/niamh.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Ellis Niamh </b>| Personal page  <br>
+     Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot">Profesor Yvan Petillot</a> <br>
+     Project title: Digital Twin for Safety: Underwater semi-autonomous inspection <br>
     </div>
   </div>
 
@@ -117,6 +154,19 @@ nav_order: 1
 
   <div class="row align-items-center">
     <div class="col-2">
+      {% include figure.html path="assets/img/profiles/Kokulan.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Kokulan Thangasuthan </b>| <a href="https://www.edinburgh-robotics.org/students/kokulan-thangasuthan/">Personal page</a> <br>
+     Co-supervised with <a href="https://valvestate.github.io/">Dr. Najib Muhammad </a> <br>
+     Project title: Strategic Adaptive Learning: A Game-Theoretic Approach to Navigating Uncertainty <br>
+    </div>
+  </div>
+
+<br>
+
+  <div class="row align-items-center">
+    <div class="col-2">
       {% include figure.html path="assets/img/profiles/Pierre.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
@@ -126,18 +176,7 @@ nav_order: 1
     </div>
   </div>
 
-<br>
 
-  <div class="row align-items-center">
-    <div class="col-2">
-      {% include figure.html path="assets/img/profiles/niamh.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-10">
-     <b> Ellis Niamh </b>| Personal page  <br>
-     Co-supervised with <a href="https://researchportal.hw.ac.uk/en/persons/yvan-petillot">Profesor Yvan Petillot</a> <br>
-     Project title: Digital Twin for Safety: Underwater semi-autonomous inspection <br>
-    </div>
-  </div>
 
 <br>
 

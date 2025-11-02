@@ -30,10 +30,12 @@ social: true  # includes social icons at the bottom of the page
 
 ## About me
 
-I am an Assistant Professor (Lecturer) in robotics and autonomous systems in the School of Engineering and Physical Sciences at [Heriot-Watt University](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/staff.htm). I am also part of the the [National Robotarium](https://thenationalrobotarium.com/) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/). 
+I am an Assistant Professor (Lecturer) in robotics and autonomous systems in the School of Engineering and Physical Sciences at [Heriot-Watt University](https://www.hw.ac.uk/uk/schools/engineering-physical-sciences/institutes/sensors-signals-systems/staff.htm). I am also part of the [National Robotarium](https://thenationalrobotarium.com/) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/). 
 
-My main research interests are in robotics, reinforcement learning, and multi-agent systems, with a focus on ad hoc teamwork. With my research, I seek to develop intelligent agents, capable of making autonomous decisions in complex multi-agent environments without the need for human supervision. Particularly, I see reinforcement learning as a viable learning paradigm, which could enable adaptive and intelligent behaviour in robotic systems. Thus, the main focus of my research so far has been on the development of autonomous control policies for complex robotic platforms, such as underwater autonomous vehicle-manipulator systems. 
+I obtained my PhD in 2019 from the National University of Central Buenos Aires, Argentina. Following this, I held postdoctoral positions at Louisiana State University (2020-2021) and the University of Edinburgh (2021-2023).
+My main research interests are in robotics, reinforcement learning, and multi-agent systems, with a focus on ad hoc teamwork. I seek to develop intelligent agents capable of making autonomous decisions in complex multi-agent environments without human supervision. I see reinforcement learning as a viable paradigm to enable adaptive and intelligent behaviour in robotic systems.
 
+One key application area of my research is marine robotics, primarily for the offshore renewable energy sector. Offshore wind farms and other marine renewable assets require regular inspection and maintenance, which currently relies on crewed vessels and human divers, both of which carry significant carbon costs and safety risks. My work addresses this challenge by improving autonomy for subsea marine robotics, with the goal of enabling safer, more sustainable offshore operations
 
 If you are interested in doing a PhD in robotics, reinforcement learning, or multi-agent systems do not hesitate to contact me. We have funding opportunities available at the [SPADS CDT](https://spads.ac.uk/how-apply) and the [CDT-D2AIR](https://www.edinburgh-robotics.org/apply). 
 
