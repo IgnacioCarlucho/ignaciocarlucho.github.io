@@ -66,7 +66,7 @@ nav_order: 1
     </div>
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
-     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia and Steven McDonagh</a>  <br>
+     Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia</a>  and Steven McDonagh <br>
      Project title: Exploring foundational models for decision making in autonomous robots. <br>
     </div>
   </div>
@@ -90,7 +90,7 @@ nav_order: 1
     {% include figure.html path="assets/img/profiles/Ivalin.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-10">
-    <b> Ivalin Chobanov </b>| Personal page <br>
+    <b> Ivalin Chobanov </b>| <a href="https://ivalin.com/">Personal page <br>
     Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy </a> <br>
     Project title: Advancing multi-agent reinforcement learning  <br>
   </div>
@@ -104,7 +104,7 @@ nav_order: 1
   </div>
   <div class="col-10">
     <b> Ulixes Hawili </b>| Personal page <br>
-    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy and Prof. Yoann Altmann</a> <br>
+    Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy</a> and Prof. Yoann Altmann <br>
     Project title: Ad hoc teamwork for real-world robotics. <br>
   </div>
 </div>
