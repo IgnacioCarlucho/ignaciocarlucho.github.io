@@ -67,7 +67,7 @@ nav_order: 1
     <div class="col-10">
      <b> Harris Uddin  </b>| Personal page <br>
      Co-supervised with <a href="https://alesuglia.github.io/">Alessandro Suglia</a>  and Steven McDonagh <br>
-     Project title: Exploring foundational models for decision making in autonomous robots. <br>
+     Project title: Foundational models for perception in Marine Robotics. <br>
     </div>
   </div>
 
