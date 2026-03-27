@@ -105,7 +105,7 @@ nav_order: 1
   <div class="col-10">
     <b> Ulixes Hawili </b>| Personal page <br>
     Co-supervised with <a href="https://people.inf.ed.ac.uk/Ram_Ramamoorthy.html">Prof. Ram Ramamoorthy</a> and Prof. Yoann Altmann <br>
-    Project title: Ad hoc teamwork for real-world robotics. <br>
+    Project title: Zero-shot Coordination and multi-agent systems. <br>
   </div>
 </div>
 
